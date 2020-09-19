@@ -1,0 +1,7 @@
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2B - C# - Password Encryption and Authentication\PwEncryptAndAuth\bin\Debug\PwEncryptAndAuth.exe.config
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2B - C# - Password Encryption and Authentication\PwEncryptAndAuth\bin\Debug\PwEncryptAndAuth.exe
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2B - C# - Password Encryption and Authentication\PwEncryptAndAuth\bin\Debug\PwEncryptAndAuth.pdb
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2B - C# - Password Encryption and Authentication\PwEncryptAndAuth\obj\Debug\PwEncryptAndAuth.csprojAssemblyReference.cache
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2B - C# - Password Encryption and Authentication\PwEncryptAndAuth\obj\Debug\PwEncryptAndAuth.csproj.CoreCompileInputs.cache
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2B - C# - Password Encryption and Authentication\PwEncryptAndAuth\obj\Debug\PwEncryptAndAuth.exe
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2B - C# - Password Encryption and Authentication\PwEncryptAndAuth\obj\Debug\PwEncryptAndAuth.pdb
